@@ -1,0 +1,151 @@
+stud_id,comp_id,stud_name,Stud_Name_for_Gmail,email,department,gpa,grade,telephone
+241001,,ابانوب امير يوسف يعقوب,Abanoub,abanoub@gmail.com,COMMUNICATION,3.8,A,010 1234 5678
+241002,,ابانوب شفيق زاخر عطيه,Abanoub1,abanoub1@gmail.com,COMMUNICATION,2.8,B,010 1234 5679
+241003,,ابانوب مينا كيرلس,Abanoub2,abanoub2@gmail.com,COMMUNICATION,2.3,B,010 1234 5680
+241004,,ابرام ماهر جرجس بشاى,Abram,abram@gmail.com,COMMUNICATION,3,B,010 1234 5681
+241005,,ابراهيم محمد حسن ابراهيم العكل,Ebrahim,ebrahim@gmail.com,COMMUNICATION,0.5,F,010 1234 5682
+241006,,احمد ابراهيم سالم احمد الجعفري,Ahmed,ahmed@gmail.com,COMMUNICATION,0.7,F,010 1234 5683
+241007,,احمد إسماعيل فايق,Ahmed1,ahmed1@gmail.com,COMMUNICATION,0.1,F,010 1234 5684
+241008,,احمد حسن عبدالمجيد حسن السيد,Ahmed2,ahmed2@gmail.com,COMMUNICATION,0.5,F,010 1234 5685
+241009,,احمد حسين احمد محمد عبدالمحسن,Ahmed3,ahmed3@gmail.com,COMMUNICATION,2.3,B,010 1234 5686
+241010,,احمد خالد السيد احمد طلحا,Ahmed4,ahmed4@gmail.com,COMMUNICATION,3,B,010 1234 5687
+241011,,احمد خالد حسين نجيب محمد عزت,Ahmed5,ahmed5@gmail.com,COMMUNICATION,1.6,C,011 1234 5687
+241012,,احمد رجب عثمان,Ahmed6,ahmed6@gmail.com,COMMUNICATION,2,C,012 1234 5687
+241013,,احمد سمير جوده السيد ابراهيم,Ahmed7,ahmed7@gmail.com,COMMUNICATION,3.3,A,010 2345 6789
+241014,,احمد سيد محمد بيومي محمد,Ahmed8,ahmed8@gmail.com,COMMUNICATION,2.7,B,011 3456 7890
+241015,,احمد عصام صالح محمود,Ahmed9,ahmed9@gmail.com,COMMUNICATION,0.1,F,012 4567 8901
+241016,,احمد مجدي طلعت عبدالمجيد العرباوي,Ahmed10,ahmed10@gmail.com,COMPUTER,2.4,B,010 8765 4321
+241017,,احمد محمد عبدالغنى على شعله,Ahmed11,ahmed11@gmail.com,COMPUTER,3,B,011 9876 5432
+241018,,احمد محمود سند عبدالله,Ahmed12,ahmed12@gmail.com,COMPUTER,1.5,C,012 0987 6543
+241019,,احمد محمود عامر عوده عبدالكريم,Ahmed13,ahmed13@gmail.com,COMPUTER,2.4,B,010 5432 1098
+241020,,احمد محمود محمد جوده ابراهيم,Ahmed14,ahmed14@gmail.com,COMPUTER,3.6,A,011 4321 0987
+241021,,احمد مصطفى ابراهيم احمد,Ahmed15,ahmed15@gmail.com,COMPUTER,1,D,012 3210 9876
+241022,,اسراء مجدى مسعد حسن الجداوى,Esraa,esraa@gmail.com,COMPUTER,0.4,F,010 6789 0123
+241023,,اسلام ناصر محمود ابو الخير هيكل,Eslam,eslam@gmail.com,COMPUTER,1,D, 010 7890 1234
+241024,,اشرف سمعان فوزي,Ashraf,ashraf@gmail.com,COMPUTER,3.9,A,011 0987 6543
+241025,,اشرقت نادر هادي,Asrakat,asrakat@gmail.com,COMPUTER,0.7,F,012 5432 1098
+241026,,امنه على عبدالوهاب اسماعيل,Amna,amna@gmail.com,COMPUTER,1.3,C,010 2345 6789
+241027,,انطونيوس عماد كامل سعيد,Antonious,antonious@gmail.com,COMPUTER,1.8,C,011 3456 7890
+241028,,ايمان محمد عبدالحميد عبدالوهاب,Eman,eman@gmail.com,COMPUTER,1.2,C,012 4567 8901
+241029,,ايه حسام على محمد,Aya,aya@gmail.com,COMPUTER,0.3,F,010 8765 4321
+241030,,بافلى جورج حسنى دوس عبدالله,Pavly,pavly@gmail.com,COMPUTER,0.5,F,011 9876 5432
+241031,,بسمة احمد صابر محمد بدر اللازق,Basma,basma@gmail.com,CIVIL,0.8,F,012 0987 6543
+241032,,بسمله يوسف اسماعيل احمد,Basmala,basmala@gmail.com,CIVIL,2.5,B,010 5432 1098
+241033,,بسنت ايهاب صابر اسماعيل احمد,Basant,basant@gmail.com,CIVIL,0.4,F,010 6789 0123
+241034,,بطرس لبيب سليمان رزق,Potros,potros@gmail.com,CIVIL,0.7,F,011 7890 1234
+241035,,بولا ايمن ميخائيل بقطر,Paula,paula@gmail.com,CIVIL,3.8,A,012 0987 2345
+241036,,بولا عماد شهدى عزمى,Paula1,paula1@gmail.com,CIVIL,1.9,C,010 5432 3456
+241037,,بولا غبريال شكري,Paula2,paula2@gmail.com,CIVIL,2.7,B,011 6543 4567
+241038,,تقى سامح صلاح السيد سويلم,Toqa,toqa@gmail.com,CIVIL,0.8,F,012 7654 5678
+241039,,تونى ميخائيل سريان بشاى,Tony,tony@gmail.com,CIVIL,1.7,C,010 8765 6789
+241040,,جمال جميل محمود,Gamal,gamal@gmail.com,CIVIL,1.7,C,011 9876 7890
+241041,,حازم محمد غريب,Hazem,hazem@gmail.com,CIVIL,0.1,F,012 0987 8901
+241042,,حمزة فايق طارق,Hamza,hamza@gmail.com,CIVIL,0.9,F,010 5432 9012
+241043,,خالد عصام محمود,Khaled,khaled@gmail.com,CIVIL,0.8,F,010 2345 9012
+241044,,خالد مجاهد ابراهيم على الابيض,Khaled1,khaled1@gmail.com,CIVIL,3.6,A,011 3456 0123
+241045,,داليا خالد محمد حنفى,Dalia,dalia@gmail.com,CIVIL,2.5,B,012 4567 1234
+241046,,دانيال فؤاد مينا,Daniel,daniel@gmail.com,CIVIL,0.3,F,010 5678 2345
+241047,,دميانه شارل شاكر زكي جرجس,Demiana,demiana@gmail.com,CIVIL,3.6,A,011 6789 3456
+241048,,رامي خيري شهاب,Ramy,ramy@gmail.com,CIVIL,1.8,C,012 7890 4567
+241049,,رفيق ايهاب صالح,Rafik,rafik@gmail.com,CIVIL,2.8,B,010 8901 5678
+241050,,روان محمد فتحى محمد,Rawan,rawan@gmail.com,CIVIL,1.1,C,011 9012 6789
+241051,,روماني جورج روماني,Romany,romany@gmail.com,CIVIL,0.9,F,012 0123 7890
+241052,,ريهام جلال عبدالعزيز محمد,Reham,reham@gmail.com,CIVIL,3,B,010 1234 8901
+241053,,ريهام ماهر عبدالفتاح حسن,Reham1,reham1@gmail.com,CIVIL,2.1,B,011 1234 8901
+241054,,سامح شريف نشأت,Sameh,sameh@gmail.com,CIVIL,1.4,C,0117 862 2399
+241055,,سامي شفيق مرجان,Samy,samy@gmail.com,CIVIL,1.1,C,0117 647 2996
+241056,,سوسن بدر نعمان,Sawsan,sawsan@gmail.com,CIVIL,2.9,B,0117 696 6001
+241057,,سيد فخري سامح,Said,said@gmail.com,CIVIL,3,B,0117 724 3242
+241058,,شادى بهاء القس ابراهيم انيس,Shady,shady@gmail.com,CIVIL,2.8,B,0117 123 9940
+241059,,شعبان سعد سيد,Shaaban,shaaban@gmail.com,CIVIL,1.8,C,0117 564 6560
+241060,,شفيق مؤمن سعيد,Shafik,shafik@gmail.com,CIVIL,3.6,A,0117 115 8749
+241061,,شكري السيد سمعان,Shokry,shokry@gmail.com,SURVEYING,3.9,A,0117 937 5955
+241062,,صفيه عادل سعيد محمد,Safia,safia@gmail.com,SURVEYING,3.4,A,0117 697 5804
+241063,,طارق فؤاد ذكي,Tarek,tarek@gmail.com,SURVEYING,3.4,A,0117 369 5694
+241064,,عاصم شهاب رأفت,Asem,asem@gmail.com,SURVEYING,1.6,C,0117 302 8552
+241065,,عائشة محمد محمود,Aisha,aisha@gmail.com,SURVEYING,0.4,F,0117 184 0808
+241066,,عبدالرحمن خالد فاروق مغاورى,Abdelrahman,abdelrahman@gmail.com,SURVEYING,2.7,B,0117 206 5593
+241067,,عبدالرحمن نبيل جمعه صادق,Abdelrahman1,abdelrahman1@gmail.com,SURVEYING,1,D,0117 725 6268
+241068,,عبدالله حافظ سعد عبدالحليم بدر,Abdallah,abdallah@gmail.com,SURVEYING,2.6,B,0117 794 9262
+241069,,عبدالله علاء الدين احمد عواد عبداللطيف,Abdallah1,abdallah1@gmail.com,SURVEYING,2.2,B,0117 247 4635
+241070,,عفاف رأفت ابراهيم عبد الحميد,Afaf,afaf@gmail.com,SURVEYING,1.2,C,0117 829 3472
+241071,,علاء جابر حماده احمد عبدالرحمن,Alaa,alaa@gmail.com,SURVEYING,1.8,C,0117 214 4400
+241072,,على ايمن محمد عبدالودود,Ali,ali@gmail.com,SURVEYING,1.2,C,0117 422 1136
+241073,,على عبدالمنعم محمد فؤاد مصطفى السيد,Ali1,ali1@gmail.com,SURVEYING,3.7,A,0117 185 2087
+241074,,على مهند غالي,Ali2,ali2@gmail.com,SURVEYING,3.6,A,0117 248 6415
+241075,,علي حكيم مهند,Ali3,ali3@gmail.com,SURVEYING,1.8,C,0117 218 9013
+241076,,علي محمد حسن,Ali4,ali4@gmail.com,SURVEYING,2.8,B,0117 981 0389
+241077,,عمار محمد عبدالواحد عبدالحميد,Amar,amar@gmail.com,SURVEYING,3.6,A,0117 336 2493
+241078,,عمر عبيد سامي,Omar,omar@gmail.com,SURVEYING,1,D,0117 145 9409
+241079,,عمرو مكرم شوقي,Amr,amr@gmail.com,SURVEYING,1.2,C,0117 836 1635
+241080,,عيد سعيد رمضان,Eid,eid@gmail.com,SURVEYING,0.9,F,0117 474 8970
+241081,,فادي سليمان داود,Fady,fady@gmail.com,SURVEYING,1.5,C,0117 372 1299
+241082,,فاطمة السيد أحمد,Fatema,fatema@gmail.com,SURVEYING,1.3,C,0117 401 8058
+241083,,فوزية شاكر مكرم,Fawzia,fawzia@gmail.com,SURVEYING,1.5,C,0117 183 7080
+241084,,كرم شادي بهاء,Karam,karam@gmail.com,SURVEYING,2.6,B,0117 712 3747
+241085,,كريم محمد سعد عبدالمطلب,Karim,karim@gmail.com,SURVEYING,0.7,F,0117 010 8969
+241086,,كريم نادي عماد,Karim1,karim1@gmail.com,SURVEYING,3.5,A,0117 156 3442
+241087,,كريم وليد محمد السيد,Karim2,karim2@gmail.com,SURVEYING,1.9,C,0117 668 5945
+241088,,كيرلس عزت لبيب ذكي,Kirellos,kirellos@gmail.com,SURVEYING,3.1,A,0117 030 8089
+241089,,كيرلس مجدى عبدالملاك حبيب,Kirellos1,kirellos1@gmail.com,SURVEYING,0.8,F,0117 739 3343
+241090,,كيرلس هاني مسعود,Kirellos2,kirellos2@gmail.com,SURVEYING,3.3,A,0117 983 5889
+241091,,لميس هيثم ناجي,Lamis,lamis@gmail.com,ELECTRICAL,0.3,F,0117 582 2310
+241092,,ليلى السيد أحمد,Laila,laila@gmail.com,ELECTRICAL,0.8,F,0117 251 4274
+241093,,ماري عادل شنودة,Mary,mary@gmail.com,ELECTRICAL,3.2,A,0117 970 4010
+241094,,ماريو سامح نشأت,Mario,mario@gmail.com,ELECTRICAL,3.3,A,0117 677 9863
+241095,,ماريو مفدى حبيب بشوى,Mario1,mario1@gmail.com,ELECTRICAL,3.8,A,0117 391 3906
+241096,,ماهر شحته عبده عامر بدران,Maher,maher@gmail.com,ELECTRICAL,0.1,F,0117 946 4592
+241097,,مايكل سامى حبشى ميلاد,Michael,michael@gmail.com,ELECTRICAL,2.6,B,0117 534 6021
+241098,,محمد احمد ابراهيم منصور,Mohamed,mohamed@gmail.com,ELECTRICAL,3.8,A,0117 000 7438
+241099,,محمد احمد ربيع محروس,Mohamed1,mohamed1@gmail.com,ELECTRICAL,1.7,C,0117 698 1474
+241100,,محمد احمد صالح علي,Mohamed2,mohamed2@gmail.com,ELECTRICAL,2.2,B,0117 890 6596
+241101,,محمد اسامة محمد بكر سيد احمد,Mohamed3,mohamed3@gmail.com,ELECTRICAL,1.4,C,0117 672 7515
+241102,,محمد اسامه عواد عواد,Mohamed4,mohamed4@gmail.com,MECHANICALPRODUCTION,3.5,A,0117 067 9722
+241103,,محمد خالد عبدالقادر هاشم,Mohamed5,mohamed5@gmail.com,MECHANICALPRODUCTION,2.8,B,0117 880 7169
+241104,,محمد سعد عبدالنعيم محمد,Mohamed6,mohamed6@gmail.com,MECHANICALPRODUCTION,3.9,A,0117 577 4743
+241105,,محمد شريف محمد عبدالفتاح,Mohamed7,mohamed7@gmail.com,MECHANICALPRODUCTION,0.2,F,0117 409 6993
+241106,,محمد عادل عبدالعزيز عبدالمقصود,Mohamed8,mohamed8@gmail.com,MECHANICALPRODUCTION,2.7,B,0117 061 7326
+241107,,محمد عادل يوسف محمد على,Mohamed9,mohamed9@gmail.com,MECHANICALPRODUCTION,3.3,A,0117 817 2891
+241108,,محمد محمود محمد محمود محمد,Mohamed10,mohamed10@gmail.com,MECHANICALPRODUCTION,1.8,C,0117 195 5763
+241109,,محمد ممدوح صلاح عبدالعزيز,Mohamed11,mohamed11@gmail.com,MECHANICALPRODUCTION,3.3,A,0117 535 8520
+241110,,محمد ممدوح محمد سعيد,Mohamed12,mohamed12@gmail.com,MECHANICALPRODUCTION,1.8,C,0117 686 2333
+241111,,محمد هشام فتحى عبد الحفيظ احمد,Mohamed13,mohamed13@gmail.com,MECHANICALPRODUCTION,3.8,A,0117 880 3142
+241112,,محمد ياسر عبدالعزيز ابراهيم,Mohamed14,mohamed14@gmail.com,MECHANICALPRODUCTION,1.2,C,0117 615 9476
+241113,,محمد يوسف حلمى ابو الصفا,Mohamed15,mohamed15@gmail.com,MECHANICALPRODUCTION,1.1,C,0117 326 5046
+241114,,محمود سليمان ناجي,Mahmoud,mahmoud@gmail.com,MECHANICALPRODUCTION,2.6,B,0117 327 8768
+241115,,محى الدين ايهاب ابراهيم محى العزب,Mohy,mohy@gmail.com,MECHANICALPRODUCTION,0.4,F,0117 931 4469
+241116,,مروان محمد شعبان احمد,Marawan,marawan@gmail.com,MECHANICALPRODUCTION,3.5,A,0117 374 7958
+241117,,مريم رضا ابراهيم كامل,Mariam,mariam@gmail.com,MECHANICALPRODUCTION,0.2,F,0117 096 1642
+241118,,مريم عاطف مكرم,Mariam1,mariam1@gmail.com,MECHANICALPRODUCTION,2.2,B,0117 745 5528
+241119,,مصطفى شكرى الكامل محمد عيد,Mostafa,mostafa@gmail.com,MECHANICALPRODUCTION,1.8,C,0117 377 9916
+241120,,مصطفى عبد الله مصطفى منصور,Mostafa1,mostafa1@gmail.com,MECHANICALPRODUCTION,3.7,A,0117 974 4620
+241121,,مصطفى وائل حسين حسين عوض,Mostafa2,mostafa2@gmail.com,ELECTRICAL,2.1,B,0117 966 5691
+241122,,مصطفي ايمن عبدالحفيظ محمد,Mostafa3,mostafa3@gmail.com,ELECTRICAL,1.9,C,0117 436 8349
+241123,,منة الله عمر عبد اللاه يوسف,Menna,menna@gmail.com,ELECTRICAL,2.5,B,0117 938 1899
+241124,,مهاب نور الدين شوقي,Mohab,mohab@gmail.com,ELECTRICAL,0.5,F,0117 371 8376
+241125,,مهند إسلام سيد,Mohanad,mohanad@gmail.com,ELECTRICAL,1.9,C,0117 375 3991
+241126,,مهند عماد محمد مصطفى خفاجى,Mohanad1,mohanad1@gmail.com,ELECTRICAL,0.6,F,0117 716 3728
+241127,,مهند مدحت مصطفى عبد الغني الصبان,Mohanad2,mohanad2@gmail.com,ELECTRICAL,1.2,C,0117 714 2478
+241128,,مؤمن محمد شهاب,Momen,momen@gmail.com,ELECTRICAL,2.2,B,0117 743 4480
+241129,,ميريام هانى عدلى كامل,Miriam,miriam@gmail.com,ELECTRICAL,1.7,C,0117 756 0718
+241130,,مينا حسام ميخائيل,Mina,mina@gmail.com,ELECTRICAL,3.5,A,0117 911 7111
+241131,,مينا عاطف موريس صورى,Mina1,mina1@gmail.com,ELECTRICAL,1.8,C,0117 850 4595
+241132,,مينا غطاس جرجس واصف,Mina2,mina2@gmail.com,MECHANICALPOWER,0.7,F,0117 496 6625
+241133,,نرمين احمد فؤاد على,Nermin,nermin@gmail.com,MECHANICALPOWER,2.4,B,0117 551 9494
+241134,,نعمة الله محمد احمد محمد,Neama,neama@gmail.com,MECHANICALPOWER,1.5,C,0117 333 7406
+241135,,نعيمة طهى محرم,Naema,naema@gmail.com,MECHANICALPOWER,3.5,A,0117 627 5759
+241136,,نهى وفيق جميل,Noha,noha@gmail.com,MECHANICALPOWER,0.2,F,0117 401 4966
+241137,,نور الدين نبيل ابراهيم احمد مسلم,Nour,nour@gmail.com,MECHANICALPOWER,3.4,A,0117 345 1078
+241138,,نورهان محمد محمود,Norhan,norhan@gmail.com,MECHANICALPOWER,1.7,C,0117 756 8202
+241139,,نيرة محمود احمد محمد عبدالسلام,Naiera,naiera@gmail.com,MECHANICALPOWER,0.2,F,0117 205 5159
+241140,,هاجر سلامة سليمان بيومى مرعى,Hagar,hagar@gmail.com,MECHANICALPOWER,3.2,A,0117 711 6012
+241141,,هالة أشرف خالد,Hala,hala@gmail.com,MECHANICALPOWER,3.7,A,0117 277 1178
+241142,,هايدى وليد محمد سعيد عبد الفضيل بيومى,Haidy,haidy@gmail.com,MECHANICALPOWER,3.3,A,0117 835 5931
+241143,,هايدي هشام فكري محمد عماره,Haidy1,haidy1@gmail.com,MECHANICALPOWER,0,F,0117 069 3439
+241144,,هشام عصام عبدالفتاح محمد السيد,Hesham,hesham@gmail.com,MECHANICALPOWER,0.6,F,0117 154 0093
+241145,,يوسف احمد عبده حسين,Youssef,youssef@gmail.com,MECHANICALPOWER,0.5,F,0117 017 4773
+241146,,يوسف أيمن حسام,Youssef1,youssef1@gmail.com,MECHANICALPOWER,3.7,A,0117 827 8794
+241147,,يوسف عادل السيد ابراهيم,Youssef2,youssef2@gmail.com,MECHANICALPOWER,2.7,B,0117 465 7814
+241148,,يوسف عثمان فاضل حسين,Youssef3,youssef3@gmail.com,MECHANICALPOWER,3.7,A,0117 429 9663
+241149,,يوسف عطية شكري,Youssef4,youssef4@gmail.com,MECHANICALPOWER,0.7,F,0117 007 2325
+241150,,يوسف محسن محمد مهدى الشيمى,Youssef5,youssef5@gmail.com,MECHANICALPOWER,2.2,B,0117 915 7562
